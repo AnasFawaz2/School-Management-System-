@@ -61,19 +61,17 @@ React, TypeScript, Vite, Tailwind CSS, shadcn/ui · ASP.NET Core (.NET 10) · AD
 |---|---|---|
 | `01-director-dashboard.png` | The director's dashboard: notes waiting, counts and quick actions. | The director's dashboard in Arabic with counts of students, teachers, groups, supervisors, team leaders and users, and quick actions. |
 | `02-groups-needing-follow-up.png` | The groups that need follow-up. | A panel listing groups marked urgent or to follow up, with tags for attendance not recorded and no progress this week. |
-| `03-student-profile.png` | A student's profile. | A student profile in Arabic with cards for personal details, study, guardian and contact, the parent's account, and the attendance tab. |
-| `04-subscriptions.png` | Monthly subscriptions. | The subscriptions page with totals for due, paid and remaining, and one row per student with status and last payment. |
-| `05-payment-by-month.png` | Recording a payment against months. | The payment dialog with a choice between full and partial payment, months marked paid, and a partly paid month. |
-| `06-student-evaluations.png` | Student evaluations for a group. | A table of students with colored dots showing growth in nine areas on a four-step scale, and medals. |
-| `07-monthly-planning.png` | Planning for the year. | Monthly cards with school, section and group plans and their status. |
-| `08-members.png` | Students and staff in one list. | The members page listing students and staff with their school numbers. |
-| `09-group-report.png` | An attendance report for one group. | A report for one group over a date range with attendance counts per session, with export buttons for Excel and PDF. |
-| `10-groups.png` | The groups page. | A list of groups with their teachers and student counts. |
-| `11-teacher-home-phone.png` | A teacher's home on a phone. | A phone screen with a reminder that last Saturday's attendance is missing and the next step. |
-| `12-taking-attendance-phone.png` | Taking attendance on a phone. | A phone screen with a student list where one student is marked absent and one late, counters at the top and a save bar. |
-| `13-family-sign-in-phone.png` | The family portal sign-in. | A phone sign-in with a field for the student number and a field for the 4-digit PIN. |
-| `14-family-overview-phone.png` | A parent's overview of one child. | A phone screen with attendance rate, medals, remaining subscription, an attendance summary and evaluation levels. |
-| `15-audit-log.png` | The audit log. | A table of actions with user, operation, date and time, such as sign-ins, attendance saved and a payment recorded. |
+| `03-payment-by-month.png` | Recording a payment against months. | The payment dialog with a choice between full and partial payment, months marked paid, and a partly paid month. |
+| `04-student-evaluations.png` | Student evaluations for a group. | A table of students with colored dots showing growth in nine areas on a four-step scale, and medals. |
+| `05-monthly-planning.png` | Planning for the year. | Monthly cards with school, section and group plans and their status. |
+| `06-members.png` | Students and staff in one list. | The members page listing students and staff with their school numbers. |
+| `07-group-report.png` | An attendance report for one group. | A report for one group over a date range with attendance counts per session, with export buttons for Excel and PDF. |
+| `08-groups.png` | The groups page. | A list of groups with their teachers and student counts. |
+| `09-teacher-home-phone.png` | A teacher's home on a phone. | A phone screen with a reminder that last Saturday's attendance is missing and the next step. |
+| `10-taking-attendance-phone.png` | Taking attendance on a phone. | A phone screen with a student list where one student is marked absent and one late, counters at the top and a save bar. |
+| `11-family-sign-in-phone.png` | The family portal sign-in. | A phone sign-in with a field for the student number and a field for the 4-digit PIN. |
+| `12-family-overview-phone.png` | A parent's overview of one child. | A phone screen with attendance rate, medals, remaining subscription, an attendance summary and evaluation levels. |
+| `13-audit-log.png` | The audit log. | A table of actions with user, operation, date and time, such as sign-ins, attendance saved and a payment recorded. |
 
 ## Architecture summary
 

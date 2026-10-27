@@ -41,26 +41,21 @@ The dashboard points at gaps, not only totals: groups with no attendance on the 
 
 ### People, groups and finance
 
-| A student's profile | Subscriptions |
+| Recording a payment | Members |
 |---|---|
-| ![Student profile](screenshots/03-student-profile.png) | ![Subscriptions](screenshots/04-subscriptions.png) |
-| Study, guardian and contact details, the parent's account, and the attendance record. | Monthly status per student, with totals for due, paid and remaining. |
-
-| Recording a payment | Members and groups |
-|---|---|
-| ![Payment dialog](screenshots/05-payment-by-month.png) | ![Members](screenshots/08-members.png) |
+| ![Payment dialog](screenshots/03-payment-by-month.png) | ![Members](screenshots/06-members.png) |
 | Payments are recorded against months, not as loose amounts. A partial payment is split evenly over the months it covers. | One list for students and staff, each with a school number. |
 
-![Groups](screenshots/10-groups.png)
+![Groups](screenshots/08-groups.png)
 
 ### Teaching
 
 | Evaluations | Monthly planning |
 |---|---|
-| ![Evaluations](screenshots/06-student-evaluations.png) | ![Planning](screenshots/07-monthly-planning.png) |
+| ![Evaluations](screenshots/04-student-evaluations.png) | ![Planning](screenshots/05-monthly-planning.png) |
 | Each student's growth in nine areas, on a four-step scale that describes growth and is never added up into a mark. | The year at a glance: school, section and group plans with their status. |
 
-![Group attendance report](screenshots/09-group-report.png)
+![Group attendance report](screenshots/07-group-report.png)
 
 ### On a phone
 
@@ -68,11 +63,11 @@ Teachers take attendance with one hand, during the session. Everyone starts pres
 
 | A teacher's home | Taking attendance | Parent sign-in | A parent's overview |
 |---|---|---|---|
-| ![Teacher home](screenshots/11-teacher-home-phone.png) | ![Attendance](screenshots/12-taking-attendance-phone.png) | ![Family sign-in](screenshots/13-family-sign-in-phone.png) | ![Family overview](screenshots/14-family-overview-phone.png) |
+| ![Teacher home](screenshots/09-teacher-home-phone.png) | ![Attendance](screenshots/10-taking-attendance-phone.png) | ![Family sign-in](screenshots/11-family-sign-in-phone.png) | ![Family overview](screenshots/12-family-overview-phone.png) |
 
 ### Accountability
 
-![Audit log](screenshots/15-audit-log.png)
+![Audit log](screenshots/13-audit-log.png)
 
 Every important action is recorded with the user, the date and the time. Sign-ins are kept 90 days, other actions 12 months.
 
